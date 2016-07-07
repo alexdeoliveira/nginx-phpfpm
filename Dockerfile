@@ -9,6 +9,7 @@ RUN apk --update add \
   php-mysql \
   php-mysqli \
   php-pdo_mysql \
+  php-mongo \
   php-mcrypt \
   php-sqlite3 \
   php-pdo_sqlite \
